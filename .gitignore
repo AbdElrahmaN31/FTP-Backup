@@ -1,0 +1,8 @@
+# Sensitive files
+.env
+
+# Temporary files
+*.tar.gz
+*.tar.gz.gpg
+/tmp/*
+
